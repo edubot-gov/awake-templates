@@ -52,8 +52,9 @@ export default {
 }
 
 .home-page {
-  background: url('../assets/uploads/background.png');
+  background: url('../assets/uploads/background.png') #f4e7d6;
   background-repeat: repeat;
   background-size: contain;
+  background-color: #f4e7d6;
 }
 </style>

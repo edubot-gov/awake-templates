@@ -75,8 +75,7 @@ export default {
 
 .navbar-brand,
 .navbar-menu {
-  box-shadow: 0;
-  background-color: #ffd8cc;
+  box-shadow: 0 !important;
 }
 .navbar-menu a {
   color: black;
