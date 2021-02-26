@@ -24,9 +24,9 @@ export default {
   name: 'SiteLogo',
   data() {
     return {
-      frames: 5,
+      frames: 1,
       currentFrame: 1,
-      blinking: true
+      blinking: false
     }
   },
   mounted() {
@@ -56,9 +56,6 @@ export default {
       height: 40px;
       margin: 5px;
       max-height: initial;
-    }
-    &.blink {
-      animation: logoBlink 0.2s steps(8, end) alternate;
     }
   }
 }

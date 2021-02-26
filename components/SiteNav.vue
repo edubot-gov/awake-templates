@@ -73,7 +73,13 @@ export default {
   height: auto;
 }
 
+.navbar-brand,
+.navbar-menu {
+  box-shadow: 0;
+  background-color: #ffd8cc;
+}
 .navbar-menu a {
+  color: black;
   display: block;
 }
 </style>

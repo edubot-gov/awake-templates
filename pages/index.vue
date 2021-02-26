@@ -50,4 +50,10 @@ export default {
 .home-page .under-subtitle {
   border-top: none;
 }
+
+.home-page {
+  background: url('../assets/uploads/background.png');
+  background-repeat: repeat;
+  background-size: contain;
+}
 </style>

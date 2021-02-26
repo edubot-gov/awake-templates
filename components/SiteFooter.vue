@@ -1,10 +1,7 @@
 <template>
   <footer class="site-footer">
-      Onedu &copy; {{ new Date().getFullYear() }} - All
-    Rights Reserved
+    Onedu &copy; {{ new Date().getFullYear() }} - Todos os Direitos Reservados.
     <br />
-    Made with <span style="color: #e25555;">&#9829;</span> with Nuxt.js and
-    Netlify
   </footer>
 </template>
 
