@@ -78,6 +78,10 @@ export default {
   box-shadow: 0 !important;
 }
 .navbar-menu a {
+  background-color: #fda68b;
+  font-weight: 500;
+  padding: 0px 10px;
+  border-radius: 40px;
   color: black;
   display: block;
 }

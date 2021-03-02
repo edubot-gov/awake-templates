@@ -11,7 +11,7 @@ import theCMS from '../cms/netlify/cms'
 export default {
   siteName: 'Onedu',
   tagline: 'Soluções inteligentes',
-  featureImage: '/uploads/home-hero.jpg',
+  featureImage: '/uploads/home-hero.png',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
