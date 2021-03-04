@@ -20,12 +20,18 @@ export default {
   mainMenu: [
     {
       name: 'Sobre',
-      link: '/about'
+      link: 'https://onedu.me/sobre'
     },
     {
-      name: 'Contato',
-      link: '/contact'
+      name: 'Casos de uso',
+      link: 'https://onedu.me/casosdeuso'
     },
+
+    {
+      name: 'Soluções',
+      link: 'https://onedu.me/'
+    },
+
     {
       name: 'Categorias',
       link: '/categories'
